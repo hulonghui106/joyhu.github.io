@@ -3,5 +3,5 @@ layout: page
 title: About
 permalink: /about/
 ---
-App开发   
-MCU固件开发       
+App development   
+MCU firmware development       

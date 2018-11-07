@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "KK Clock"
-date:   2018-11-06 15:06:48 +0800
+date:   2018-05-29 15:06:48 +0800
 categories: 生活
 ---
-某CEO[语录](http://www.wyl.cc/classic-sayings/1019086.html)：  
->“看见10只兔子，你到底抓哪一只？有些人一会儿抓这个兔子，一会儿抓那个兔子，最后可能一只也抓不住。CEO 的主要任务不是寻找机会而是对机会说NO。机会太多，只能抓一个。我只能抓一只兔子，抓多了，什么都会丢掉”。
+* Display a large digital clock that can change the font in the settings.
+* This app does not collect any user privacy and does not store user data.
 
 <div id="disqus_thread"></div>
 <script>

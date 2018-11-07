@@ -5,8 +5,8 @@ date:   2018-11-06 15:06:48 +0800
 categories: 生活
 ---
 ## What's KK Clock
-* Display a large digital clock that can change the font in the settings111.
-> This app does not collect any user privacy and does not store user data.
+* Display a large digital clock that can change the font in the settings.
+* This app does not collect any user privacy and does not store user data.
 <div id="disqus_thread"></div>
 <script>
 /**
